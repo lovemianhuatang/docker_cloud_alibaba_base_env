@@ -46,7 +46,7 @@ store.db.dbType=mysql
 store.db.driverClassName=com.mysql.cj.jdbc.Driver
 store.db.url=jdbc:mysql://ali-mysql:3306/seata_config?useUnicode=true&serverTimezone=GMT%2b8
 store.db.user=root
-store.db.password=xiaoyanyixia
+store.db.password=codelong
 store.db.minConn=5
 store.db.maxConn=30
 store.db.globalTable=global_table
